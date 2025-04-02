@@ -5,5 +5,5 @@
 * 0 -> Rock
 * 1 -> Paper
 * 2 -> Scissors
-* > = 3 and < 0 -> Exit game.
+* < 0 and >= 3 -> Exit game.
 ### Have fun! :)
